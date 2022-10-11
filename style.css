@@ -1,0 +1,42 @@
+*{
+  margin:auto ;
+  padding: 10px;
+  margin-left: 10px;
+  box-sizing: border-box;
+
+}
+
+
+body{
+  background-color: black;
+
+}
+.container{
+  height: 100px;
+  width: 300px;
+
+}
+
+main{
+  background-color: azure;
+  height: 600px;
+  width:500px;
+  margin-top: 50px;
+  align-self:center;
+  
+}
+
+.div{
+  text-align:center ;
+  background-color: red;
+  color: white;
+  height: 50px;
+  width:300px;
+  border-radius: 5px;
+  
+}
+
+
+}
+
+
